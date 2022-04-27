@@ -1,0 +1,8 @@
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\Kółko i krzyżyk.exe.config
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\Kółko i krzyżyk.exe
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\Kółko i krzyżyk.pdb
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\Kółko i krzyżyk.csproj.AssemblyReference.cache
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\Kółko i krzyżyk.csproj.SuggestedBindingRedirects.cache
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\Kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\Kółko i krzyżyk.exe
+C:\Users\strum\Desktop\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\Kółko i krzyżyk.pdb
